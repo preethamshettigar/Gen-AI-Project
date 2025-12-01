@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built with **Streamlit**, **LangChain**, and **Groq**. This application allows users to chat interactively with a specific PDF document ("Overview of LLM.pdf"), leveraging the power of the **Llama 3** model to answer questions based on the document's content.
 
+**Note : You can upload any PDF Document research paper, technical manual or financial report by replacing the original document **Overview of LLM.pdf** from code to your specific file name.pdf document*
+
 ## 🚀 Features
 
 * **Interactive Chat Interface**: Built using Streamlit for a clean, chat-like experience.
